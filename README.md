@@ -2,15 +2,15 @@
 This C language chat server makes use of fifos and signals in order to communicate through terminals!
 
 # Directions
-- Server
+## Server
 Run the server in a terminal with the given command format
-./bl_server (server name)
+. /bl_server (server name)
 
 ![Server Picture](https://i.imgur.com/IDNOJRN.png)
-Run other terminals with the given command format for clients
 
-- Client
-./bl_client (server name) (nickname)
+## Clients
+Run other terminals with the given command format for clients
+- ./bl_client (server name) (nickname)
 ![Client Picture](https://i.imgur.com/3iBbbYY.png)
 
 
