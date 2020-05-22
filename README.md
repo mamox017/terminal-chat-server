@@ -4,8 +4,11 @@ This C language chat server makes use of fifos and signals in order to communica
 # Directions
 Run the server in a terminal with the given command format
 ./bl_server (server name)
+
 ![Server Picture](https://i.imgur.com/IDNOJRN.png)
 Run other terminals with the given command format for clients
+
 ./bl_client (server name) (nickname)
 ![Client Picture](https://i.imgur.com/3iBbbYY.png)
+
 Once joined, you can send messages to others who are in the chat server.  If you close your terminal or press Ctrl+C, you depart from the server and a departing message is sent to all others remaining in the server.
