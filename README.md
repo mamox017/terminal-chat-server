@@ -10,8 +10,7 @@ Build the tests and with the following command
 
 ## Server
 Run the server in a terminal with the given command format
-. /bl_server (server name)
-
+- /bl_server (server name)
 ![Server Picture](https://i.imgur.com/IDNOJRN.png)
 
 ## Clients
