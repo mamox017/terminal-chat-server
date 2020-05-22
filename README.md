@@ -2,6 +2,12 @@
 This C language chat server makes use of fifos and signals in order to communicate through terminals!
 
 # Directions
+Build the program with the following command
+- make
+
+Build the tests and with the following command
+- make test
+
 ## Server
 Run the server in a terminal with the given command format
 . /bl_server (server name)
